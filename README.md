@@ -1,0 +1,1 @@
+# Ex-No-01---Design-a-CMOS-Inverter-and-Analyze-Transient-Response-using-Synopsis-EDA-Tools
