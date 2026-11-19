@@ -2,7 +2,7 @@
 
 ## Aim
 To design and simulate a CMOS inverter circuit using Synopsys EDA tools, analyze its electrical characteristics, and study its transient response
-
+ 
 ## Tools Required
 
 ### Synopsys EDA Suite
